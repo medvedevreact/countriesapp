@@ -1,0 +1,9 @@
+.all-countries {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+.link-style {
+  color: inherit;
+  text-decoration: none;
+}
